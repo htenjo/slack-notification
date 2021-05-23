@@ -1,0 +1,6 @@
+reposUrl:
+  - https://api.github.com/repos/<user>/<repo1>
+  - https://api.github.com/repos/<user>/<repo2>
+
+repoUsername: <username>
+repoPassword: <pws|token>
